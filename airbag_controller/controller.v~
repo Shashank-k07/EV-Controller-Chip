@@ -1,0 +1,29 @@
+module airbagcontroller(airbag, seatbelt, sensor, break);
+	input seatbelt, sensor, break;
+	output airbag;
+	assign airbag = seatbelt&sensor&break;
+endmodule
+
+module test;
+	reg seatbelt, sensor, break;
+	wire airbag;
+	airbagcontroller dut(airbag, seatbelt, sensor, break);
+	initial begin 
+		seatbelt = 0; sensor = 0; break = 0;
+		#10;
+		seatbelt = 0; sensor = 0; break = 1;
+		#10;
+		seatbelt = 0; sensor = 1; break = 0;
+		#10;
+		seatbelt = 0; sensor = 1; break = 1;
+		#10;
+		seatbelt = 1; sensor = 0; break = 0;
+		#10; 
+		seatbelt = 1; sensor = 0; break = 1;
+		#10;
+		seatbelt = 1; sensor = 1; break = 0;
+		#10;
+		seatbelt = 1; sensor = 1; break = 1;
+		#10
+	end 
+endmodule

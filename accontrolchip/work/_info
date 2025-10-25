@@ -1,0 +1,48 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/airbag_controller
+vac_control
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 nnRFGS:2HiD`m>c955<Yh2
+IYXW>DFA[]B8P3ZKmUA12L0
+Z1 dC:/Users/Lenovo/Desktop/ac control chip
+Z2 w1753767669
+Z3 8accontrol.v
+Z4 Faccontrol.v
+L0 1
+Z5 OE;L;10.4e;61
+Z6 !s108 1753767681.000000
+Z7 !s107 accontrol.v|
+Z8 !s90 -reportprogress|300|accontrol.v|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtop
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 i_L]nfAIn=hiIUcP=N`cn3
+IF55edM;m?HN^?j3UEQWUo0
+R1
+R2
+R3
+R4
+L0 9
+R5
+R6
+R7
+R8
+!i113 0
+R9

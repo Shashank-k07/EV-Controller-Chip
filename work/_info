@@ -1,0 +1,58 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim_10.4e/examples
+T_opt
+!s110 1753773998
+V7^eYj1M2PY7AGm@iU@<B61
+04 4 4 work test fast 0
+=1-b06088ed1818-688877ad-3c0-1e88
+o-quiet -auto_acc_if_foreign -work work -debugdb
+n@_opt
+OE;O;10.4e;61
+vevcontroller
+Z0 !s110 1753773961
+!i10b 1
+!s100 6IBI8OAG:4GRUbKT2NN_z1
+IHSY9;^PoLBmOi5c?3h<mN3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/EVcontrollerchip
+Z3 w1753772914
+Z4 8evcontoller.v
+Z5 Fevcontoller.v
+L0 1
+Z6 OE;L;10.4e;61
+r1
+!s85 0
+31
+Z7 !s108 1753773961.000000
+Z8 !s107 evcontoller.v|
+Z9 !s90 -reportprogress|300|evcontoller.v|
+!i113 0
+Z10 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtest
+R0
+!i10b 1
+!s100 GWagl?WQ]?QZNV1Ce]fmT1
+Ih3gFgmB=@PCTYi6Jhlm[f2
+R1
+R2
+R3
+R4
+R5
+L0 12
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10

@@ -1,0 +1,48 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim_10.4e/examples
+vdigitallock
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^JA_7^IUX_F[=mn>353I?3
+I<Yh5OJ?jee]8iQmHL:kM61
+Z1 dC:/digitallock
+Z2 w1753770455
+Z3 8lock.v
+Z4 Flock.v
+L0 1
+Z5 OE;L;10.4e;61
+Z6 !s108 1753770487.000000
+Z7 !s107 lock.v|
+Z8 !s90 -reportprogress|300|lock.v|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtest
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 8VOHf[k]S6HLaE]l4o4ek0
+I70KfLhO@5X@7Jb87EAeXF0
+R1
+R2
+R3
+R4
+L0 7
+R5
+R6
+R7
+R8
+!i113 0
+R9
